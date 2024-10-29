@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Stuff I like"
+name: "Sofia"
+email: "erm, my email is none of ur beeswax"
+url: "https://kiwibun.github.io"
+baseurl: "/my clone repo of jekyll for job market"
+repository: "kiwibun/my clone repo of jekyll for job market"
 header:
   image: /assets/images/banner-husky.jpg
 
